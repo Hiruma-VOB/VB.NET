@@ -1,0 +1,11 @@
+C:\Users\tatsuda\Desktop\直紀\sansudrill\sansudrill\bin\Debug\sansudrill.exe.config
+C:\Users\tatsuda\Desktop\直紀\sansudrill\sansudrill\bin\Debug\sansudrill.exe
+C:\Users\tatsuda\Desktop\直紀\sansudrill\sansudrill\bin\Debug\sansudrill.pdb
+C:\Users\tatsuda\Desktop\直紀\sansudrill\sansudrill\bin\Debug\sansudrill.xml
+C:\Users\tatsuda\Desktop\直紀\sansudrill\sansudrill\obj\Debug\sansudrill.vbprojAssemblyReference.cache
+C:\Users\tatsuda\Desktop\直紀\sansudrill\sansudrill\obj\Debug\sansudrill.Form1.resources
+C:\Users\tatsuda\Desktop\直紀\sansudrill\sansudrill\obj\Debug\sansudrill.Resources.resources
+C:\Users\tatsuda\Desktop\直紀\sansudrill\sansudrill\obj\Debug\sansudrill.vbproj.GenerateResource.cache
+C:\Users\tatsuda\Desktop\直紀\sansudrill\sansudrill\obj\Debug\sansudrill.exe
+C:\Users\tatsuda\Desktop\直紀\sansudrill\sansudrill\obj\Debug\sansudrill.xml
+C:\Users\tatsuda\Desktop\直紀\sansudrill\sansudrill\obj\Debug\sansudrill.pdb

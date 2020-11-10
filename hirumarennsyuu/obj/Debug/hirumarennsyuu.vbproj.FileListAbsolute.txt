@@ -1,0 +1,41 @@
+C:\Users\PCUser\Documents\Visual Studio 2017\Projects\hirumarennsyuu\hirumarennsyuu\bin\Debug\hirumarennsyuu.exe.config
+C:\Users\PCUser\Documents\Visual Studio 2017\Projects\hirumarennsyuu\hirumarennsyuu\bin\Debug\hirumarennsyuu.exe
+C:\Users\PCUser\Documents\Visual Studio 2017\Projects\hirumarennsyuu\hirumarennsyuu\bin\Debug\hirumarennsyuu.pdb
+C:\Users\PCUser\Documents\Visual Studio 2017\Projects\hirumarennsyuu\hirumarennsyuu\bin\Debug\hirumarennsyuu.xml
+C:\Users\PCUser\Documents\Visual Studio 2017\Projects\hirumarennsyuu\hirumarennsyuu\obj\Debug\hirumarennsyuu.vbprojAssemblyReference.cache
+C:\Users\PCUser\Documents\Visual Studio 2017\Projects\hirumarennsyuu\hirumarennsyuu\obj\Debug\hirumarennsyuu.Resources.resources
+C:\Users\PCUser\Documents\Visual Studio 2017\Projects\hirumarennsyuu\hirumarennsyuu\obj\Debug\hirumarennsyuu.vbproj.GenerateResource.cache
+C:\Users\PCUser\Documents\Visual Studio 2017\Projects\hirumarennsyuu\hirumarennsyuu\obj\Debug\hirumarennsyuu.vbproj.CoreCompileInputs.cache
+C:\Users\PCUser\Documents\Visual Studio 2017\Projects\hirumarennsyuu\hirumarennsyuu\obj\Debug\hirumarennsyuu.exe
+C:\Users\PCUser\Documents\Visual Studio 2017\Projects\hirumarennsyuu\hirumarennsyuu\obj\Debug\hirumarennsyuu.xml
+C:\Users\PCUser\Documents\Visual Studio 2017\Projects\hirumarennsyuu\hirumarennsyuu\obj\Debug\hirumarennsyuu.pdb
+C:\Users\PCUser\Documents\Visual Studio 2017\Projects\hirumarennsyuu\hirumarennsyuu\obj\Debug\hirumarennsyuu.Form3.resources
+C:\Users\PCUser\Documents\Visual Studio 2017\Projects\hirumarennsyuu\hirumarennsyuu\obj\Debug\hirumarennsyuu.form_Touroku.resources
+C:\Users\PCUser\Documents\Visual Studio 2017\Projects\hirumarennsyuu\hirumarennsyuu\obj\Debug\hirumarennsyuu.form_Menu.resources
+C:\Users\tatsuda\Desktop\直紀\hirumarennsyuu\bin\Debug\hirumarennsyuu.exe.config
+C:\Users\tatsuda\Desktop\直紀\hirumarennsyuu\bin\Debug\hirumarennsyuu.exe
+C:\Users\tatsuda\Desktop\直紀\hirumarennsyuu\bin\Debug\hirumarennsyuu.pdb
+C:\Users\tatsuda\Desktop\直紀\hirumarennsyuu\bin\Debug\hirumarennsyuu.xml
+C:\Users\tatsuda\Desktop\直紀\hirumarennsyuu\obj\Debug\hirumarennsyuu.vbprojAssemblyReference.cache
+C:\Users\tatsuda\Desktop\直紀\hirumarennsyuu\obj\Debug\hirumarennsyuu.form_Touroku.resources
+C:\Users\tatsuda\Desktop\直紀\hirumarennsyuu\obj\Debug\hirumarennsyuu.form_Menu.resources
+C:\Users\tatsuda\Desktop\直紀\hirumarennsyuu\obj\Debug\hirumarennsyuu.Form3.resources
+C:\Users\tatsuda\Desktop\直紀\hirumarennsyuu\obj\Debug\hirumarennsyuu.Resources.resources
+C:\Users\tatsuda\Desktop\直紀\hirumarennsyuu\obj\Debug\hirumarennsyuu.vbproj.GenerateResource.cache
+C:\Users\tatsuda\Desktop\直紀\hirumarennsyuu\obj\Debug\hirumarennsyuu.exe
+C:\Users\tatsuda\Desktop\直紀\hirumarennsyuu\obj\Debug\hirumarennsyuu.xml
+C:\Users\tatsuda\Desktop\直紀\hirumarennsyuu\obj\Debug\hirumarennsyuu.pdb
+C:\Users\hirum\Desktop\VB\hirumarennsyuu\bin\Debug\hirumarennsyuu.exe.config
+C:\Users\hirum\Desktop\VB\hirumarennsyuu\bin\Debug\hirumarennsyuu.exe
+C:\Users\hirum\Desktop\VB\hirumarennsyuu\bin\Debug\hirumarennsyuu.pdb
+C:\Users\hirum\Desktop\VB\hirumarennsyuu\bin\Debug\hirumarennsyuu.xml
+C:\Users\hirum\Desktop\VB\hirumarennsyuu\obj\Debug\hirumarennsyuu.vbprojAssemblyReference.cache
+C:\Users\hirum\Desktop\VB\hirumarennsyuu\obj\Debug\hirumarennsyuu.form_Touroku.resources
+C:\Users\hirum\Desktop\VB\hirumarennsyuu\obj\Debug\hirumarennsyuu.form_Menu.resources
+C:\Users\hirum\Desktop\VB\hirumarennsyuu\obj\Debug\hirumarennsyuu.Form3.resources
+C:\Users\hirum\Desktop\VB\hirumarennsyuu\obj\Debug\hirumarennsyuu.Resources.resources
+C:\Users\hirum\Desktop\VB\hirumarennsyuu\obj\Debug\hirumarennsyuu.vbproj.GenerateResource.cache
+C:\Users\hirum\Desktop\VB\hirumarennsyuu\obj\Debug\hirumarennsyuu.vbproj.CoreCompileInputs.cache
+C:\Users\hirum\Desktop\VB\hirumarennsyuu\obj\Debug\hirumarennsyuu.exe
+C:\Users\hirum\Desktop\VB\hirumarennsyuu\obj\Debug\hirumarennsyuu.xml
+C:\Users\hirum\Desktop\VB\hirumarennsyuu\obj\Debug\hirumarennsyuu.pdb
